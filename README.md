@@ -3,13 +3,13 @@ This is a maths library
 ## Install 
 
 ```
-npm install @jsstrn/math
+npm install @jinchengnpm/math
 ```
 
 ## Usage
 
 ```
-const math = require('@jsstrn/math')
+const math = require('@jinchengnpm/math')
 const result = math.add(3,3);
 ```
 
